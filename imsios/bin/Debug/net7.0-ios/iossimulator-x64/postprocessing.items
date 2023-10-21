@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="imsios.app/imsios">
+      <BCSymbolMapName>imsios.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>imsios.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/faraichakarisa/Projects/imsios/imsios/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>imsios.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/faraichakarisa/Projects/imsios/imsios</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
